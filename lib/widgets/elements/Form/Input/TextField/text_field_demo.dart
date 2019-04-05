@@ -1,12 +1,10 @@
 import 'package:flutter/material.dart';
 
-/*
-* 基本示例
-* */
+// 基本示例
 class DefaultTextField extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
-    return new Container(
+    return  Container(
       padding: const EdgeInsets.all(30.0),
       child: Column(
         crossAxisAlignment: CrossAxisAlignment.start, //文本是起始端对齐
@@ -21,9 +19,7 @@ class DefaultTextField extends StatelessWidget {
   }
 }
 
-/*
-* 稍微复杂些的 TextField
-* */
+/// 稍微复杂些的 TextField
 class CustomTextField extends StatelessWidget {
   void _textFieldChanged(String str) {
     print(str);
@@ -31,7 +27,7 @@ class CustomTextField extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return new Container(
+    return  Container(
         padding: const EdgeInsets.all(30.0),
         child: TextField(
           keyboardType: TextInputType.number,

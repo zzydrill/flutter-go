@@ -1,16 +1,24 @@
 ## Flutter Go
 
-> Help developers get started quickly Flutter **In-house testing, the 1.0 official version will be released on February 20.**
+![https://img.alicdn.com/tfs/TB1OJkeHNYaK1RjSZFnXXa80pXa-229-229.png](https://img.alicdn.com/tfs/TB1OJkeHNYaK1RjSZFnXXa80pXa-229-229.png)
+
+> Help developers get started quickly Flutter  **Flutter Go 1.0 Android has been released**
 
 
 ## Download URL
 
 Android download URL:
 
-<img src="https://img.alicdn.com/tfs/TB1q1GVB4naK1RjSZFtXXbC2VXa-195-198.png" width="200px">
+<img src="https://img.alicdn.com/tfs/TB180.kOhYaK1RjSZFnXXa80pXa-442-420.png" width="200px">
 
 Iphone download URL:
 No
+
+## Development Environment
+This Project need latest package, please update regularly.
+
+- dart(version: 2.0.0)
+- flutter(version: v1.0.0)
 
 ### Background
 

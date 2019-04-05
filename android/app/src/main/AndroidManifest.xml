@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.flutterrookiebook">
+    package="com.ali.fluttergo">
 
     <!-- The INTERNET permission is required for development. Specifically,
          flutter needs it to communicate with the running application
@@ -16,8 +16,8 @@
          FlutterApplication and put your custom class here. -->
     <application
         android:name="io.flutter.app.FlutterApplication"
-        android:label="菜鸟手册"
-        android:icon="@drawable/logo">
+        android:label="flutter go"
+        android:icon="@drawable/flutter_go_logo">
         <activity
             android:name=".MainActivity"
             android:launchMode="singleTop"
